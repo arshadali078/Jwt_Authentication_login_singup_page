@@ -53,4 +53,4 @@ Copy
 Edit
 cd frontend  
 npm start
-Open in browser: http://localhost:3000/
+Open in browser: [http://localhost:3000/](http://localhost:5173/register)
